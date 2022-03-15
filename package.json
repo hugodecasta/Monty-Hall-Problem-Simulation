@@ -1,0 +1,22 @@
+{
+  "name": "monty-hall-problem-simulation",
+  "version": "0.1.0",
+  "description": "Monty-Hall-Problem-Simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugodecasta/Monty-Hall-Problem-Simulation.git"
+  },
+  "keywords": [
+    "Monty-Hall-Problem-Simulation"
+  ],
+  "author": "Hugo Castaneda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugodecasta/Monty-Hall-Problem-Simulation/issues"
+  },
+  "homepage": "https://github.com/hugodecasta/Monty-Hall-Problem-Simulation#readme"
+}
