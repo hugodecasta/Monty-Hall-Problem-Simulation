@@ -9,7 +9,7 @@ Suppose you're on a game show, and you're given the choice of three doors: Behin
 [Exctracted from Wikipedia](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
 ## Simulation results
-Result sample on 5000000 games (using `node . 5000000`): 
+Sample win rate ratios on the 3 studied strategies each tested on 5000000 games (using `node . 5000000`): 
 ```
 RAND   : 0.4995708
 STAY   : 0.333558
